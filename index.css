@@ -1,0 +1,15 @@
+#bar{
+    background: rgb(202, 55, 55);
+    color: rgb(61, 153, 98) (rgba(red, green, blue, alpha));
+}
+main {
+    height: 1200px;
+    background-color: rgb(16, 228, 228);
+}
+#product {
+    background-image: url(IMG_20240316_112945.jpg);
+    width: 1000px;
+    height: 2000px;
+    background-repeat:no-repeat ;
+    background-position: center;
+}
